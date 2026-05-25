@@ -390,7 +390,7 @@ The system successfully performs employee management operations efficiently and 
 # Author
 
 ## Developed By
-Divith S.D
+Nidhish Varadarajan K
 
 ## Technologies Used
 Spring Boot | Java | HTML | CSS | JavaScript | MySQL
